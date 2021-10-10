@@ -42,7 +42,11 @@ Parts needed:
   (https://www.adafruit.com/product/377, PEC11-4215F-S24 or
   equivalent)
   
-- 3D printed enclosure (see "cad" folder)
+- 3D printed enclosure (see "cad" folder). There are now 3mf project files which should work with most slicing software:
+
+  1. **qtpyknob-all-mod.3mf** - all the parts, for printing in a translucent material
+  2. **qtpyknob-diffuser-mod.3mf** - just the diffuser, for printing in a translucent material
+  3. **qtpyknob-except-diffuser-mod.3mf** - all the other parts, if you want to print the body in an opaque material
 
 Optional:
 
